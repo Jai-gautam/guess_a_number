@@ -17,3 +17,5 @@ while(check == -1):
         print(f"Number is greater then {guess}")    
 
 print(f"your total number of guesses are {itr}")
+
+# no frontend is present , it will be created in future !!
